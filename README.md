@@ -1,5 +1,3 @@
-# Counterfeit-Notes-Detection
-
 # COUNTERFEIT NOTES DETECTION
 
 ## A Fake Currency Detection System
