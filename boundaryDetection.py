@@ -189,24 +189,8 @@ for i in range(0,21):
     # plt.subplot(3,3,i+1)
     height = ss.shape[0]
     width = ss.shape[1]
-    # for j in feature_set:
-
-    # x= int(height * 0.648363252 )
-    # y= int(width * 0.873353597)
-    # dx = int(height* 0.173178458)
-    # dy = int(width* 0.088652482)
-
-    # cv2.rectangle(ss, (y,x), (y+dy,x+dx), (0,255,0),2)
+    
     cv2.namedWindow(str(i), cv2.WINDOW_KEEPRATIO)
     cv2.imshow(str(i), ss)
-    # plt.title("Note: "+title)
-    # if i == 1:
-        # print(rect)
-        # print(path)
-        # break
-    # plt.subplot(212)
-    # plt.imshow(coloredImage, cmap='Greys_r')
-# plt.show()
+   
 cv2.waitKey(0)
-    # cv2.imshow("Image",coloredImage)
-    # cv2.waitKey(0)
