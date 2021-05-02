@@ -98,7 +98,7 @@ def determineAccuracy(_matches, _limit = None):
         print(e.args)
         return 0
     return _avg
-# draw matches to a new image
+
 def drawMatcher(_standardImage, _sampleImage, _keyPoints, _matches):
     result  = None
     result = cv2.drawMatches(_standardImage,_keyPoints[0],_sampleImage,
