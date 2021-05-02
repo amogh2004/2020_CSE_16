@@ -178,7 +178,6 @@ for i in range(0,21):
     rect = cv2.boxPoints(rect) # 
     rect = np.int0(rect)
     # print(rect)  # all the points of the bounding rectangle
-    # cv2.drawContours(coloredImage, [rect], -1, (0,255,0),3)
 
     ss = getFit(coloredImage, rect)
     aratio = ss.shape[1]/ss.shape[0]
