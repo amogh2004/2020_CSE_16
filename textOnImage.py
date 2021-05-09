@@ -18,10 +18,3 @@ def print_s(_header, DefaultCanvas=None):
     for i in range(0,x):
         cv2.putText(canvas,print_list[i] ,(10,(i+1)*20), font, 1,(0,255,0),1,cv2.LINE_AA)
     cv2.imshow(_header,canvas)
-
-
-print_f('Hello World')
-print_f('Shit down')
-print_f('I can\'t believe it works just fine')
-print_s('Some Heading')
-cv2.waitKey(0)
