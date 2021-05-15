@@ -8,6 +8,9 @@ Fake currency is impersonation currency created without the lawful authorize of 
 <hr>
 <div>
   <span>
-    <img src="https://github.com/amogh2004/2020_CSE_16/blob/master/output.png" alt="Output">
-  </span>                                                                                                                      
+    <img src="https://github.com/amogh2004/2020_CSE_16/blob/main/output1.png" alt="Output1">
+  </span>
+  <span>
+    <img src="https://github.com/amogh2004/2020_CSE_16/blob/main/output2.png" alt="Output2">
+  </span>
 </div>
