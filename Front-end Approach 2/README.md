@@ -1,5 +1,4 @@
 # Image-Browser
-## Image Browser using tkinter
 
 ### About the Browser
 **This browser works as the a displayer for the Stored Graphical Images.**
