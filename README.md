@@ -12,7 +12,7 @@ You should have [Python3](https://www.python.org/downloads/) installed in your s
 pip install -r re.txt
 ```
 
-<hr>
+<!-- <hr>
 <div>
   <span>
     <img src="https://github.com/amogh2004/2020_CSE_16/blob/main/output1.png" alt="Output1" height="300" width="600">
@@ -24,4 +24,4 @@ pip install -r re.txt
     Output 2
   </span>
 </div>
-<hr>
+<hr> -->
