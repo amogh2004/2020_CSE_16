@@ -217,7 +217,7 @@ def activate():
 
 window=Tk()
 window.geometry('800x700')
-window.title("Counterfeit notes detection ")
+window.title("COUNTERFEIT NOTES DETECTION")
 window.configure(background='black')
 window.resizable(0,0)
 
@@ -247,6 +247,6 @@ message3.place(x=250,y=350)
 
 m1=Label(window,font=("Helvestica",25),bg='black',fg='white')
 m1.place(x=300,y=280)
-m1.configure(text="PROCESSING....")
+m1.configure(text="LOADING DEPENDENCIES...")
 window.after(20000,activate)
 window.mainloop()
