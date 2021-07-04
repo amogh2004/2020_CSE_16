@@ -105,7 +105,6 @@ def scan():
     max_kp = 0
 
     orb = cv2.ORB_create()
-    # orb is an alternative to SIFT
 
     #test_img = read_img('files/test_100_2.jpg')
     #test_img = read_img('files/test_50_2.jpg')
