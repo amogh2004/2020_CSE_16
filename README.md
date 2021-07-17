@@ -11,20 +11,20 @@ Using Tkinter we created the web app which consists of 3 buttons i.e. Scan Curre
 
 <div>
   <span>
-    <img src="https://github.com/amogh2004/2020_CSE_16/blob/main/Machine%20Learning%20Approach%201/output1.png" alt="ML1-Output1" height="300" width="600"></br>
-    Output 1</br></br>
+    <img src="https://github.com/amogh2004/2020_CSE_16/blob/main/Final%20Approach/finalOutput1.png" alt="Final-Output1" height="600" width="600"></br>
+    Output 1</br>
   </span>
   <span>
-    <img src="https://github.com/amogh2004/2020_CSE_16/blob/main/Machine%20Learning%20Approach%201/output2.png" alt="ML1-Output2" height="300" width="600"></br>
-    Output 2
+    <img src="https://github.com/amogh2004/2020_CSE_16/blob/main/Final%20Approach/finalOutput2.png" alt="Final-Output2" height="600" width="600"></br>
+    Output 2</br>
   </span>
   <span>
-    <img src="https://github.com/amogh2004/2020_CSE_16/blob/main/Machine%20Learning%20Approach%201/output2.png" alt="ML1-Output2" height="300" width="600"></br>
-    Output 3
+    <img src="https://github.com/amogh2004/2020_CSE_16/blob/main/Final%20Approach/finalOutput3.png" alt="Final-Output3" height="600" width="600"></br>
+    Output 3</br>
   </span>
   <span>
-    <img src="https://github.com/amogh2004/2020_CSE_16/blob/main/Machine%20Learning%20Approach%201/output2.png" alt="ML1-Output2" height="300" width="600"></br>
-    Output 4
+    <img src="https://github.com/amogh2004/2020_CSE_16/blob/main/Final%20Approach/finalOutput4.png" alt="Final-Output4" height="600" width="600"></br>
+    Output 4</br>
   </span>
 </div>
 
