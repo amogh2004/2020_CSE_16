@@ -9,6 +9,25 @@ _By Akshatha Ramesh, Amogh R, Darshan S and Nikhil Subramanya K_
 ### Final Approach: Using k-NN Algorithm, BFM Technique and Tkinter
 Using Tkinter we created the web app which consists of 3 buttons i.e. Scan Currency, Start Scanning and Browse & Scan. When Scan Currency is clicked, we can face the currency note to the web cam and the note gets scanned and then start scan button is clicked. The Browse & scan button is used to input the image of currency notes present on the device and then check if the currency note is real or not. 
 
+<div>
+  <span>
+    <img src="https://github.com/amogh2004/2020_CSE_16/blob/main/Machine%20Learning%20Approach%201/output1.png" alt="ML1-Output1" height="300" width="600"></br>
+    Output 1</br></br>
+  </span>
+  <span>
+    <img src="https://github.com/amogh2004/2020_CSE_16/blob/main/Machine%20Learning%20Approach%201/output2.png" alt="ML1-Output2" height="300" width="600"></br>
+    Output 2
+  </span>
+  <span>
+    <img src="https://github.com/amogh2004/2020_CSE_16/blob/main/Machine%20Learning%20Approach%201/output2.png" alt="ML1-Output2" height="300" width="600"></br>
+    Output 3
+  </span>
+  <span>
+    <img src="https://github.com/amogh2004/2020_CSE_16/blob/main/Machine%20Learning%20Approach%201/output2.png" alt="ML1-Output2" height="300" width="600"></br>
+    Output 4
+  </span>
+</div>
+
 #### Prerequisites
 You should have [Python3](https://www.python.org/downloads/) installed in your system. To install other required libraries, run the following command in the terminal.
 ```
